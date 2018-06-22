@@ -67316,6 +67316,14 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .fl-bigmug-line-zoom60:before {
 	content: "\e0db";
 }
+.box-award__image1:hover{
+	transform: scaleY(1.5);
+    transition: .4s;
+}
+.box-award__image1
+{
+	transform: rotate(-45deg)	
+}
 
 /*# sourceMappingURL=style.css.map */
 
