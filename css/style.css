@@ -37907,6 +37907,10 @@ html .icon-md {
 
 /*
 *
+post-modern {
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px;
 * Posts
 * --------------------------------------------------
 */
@@ -37914,7 +37918,7 @@ html .icon-md {
 	position: relative;
 	overflow: hidden;
 	border-radius: 5px;
-	background: #ffffff;
+	background: #e5f8f8;
 	box-shadow: -1px 0px 10px 0px rgba(87, 87, 87, 0.12);
 	text-align: left;
 }
